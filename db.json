@@ -46,9 +46,9 @@
       "doctor": "Dr. Fernanda Melo"
     }
     
-  ],"Appointment": [
+  ],"posts": [
     {
-      "code": 123,
+      "id": 1,
       "cpf": "00000000000",
       "paciente": "Carlos Maia",
       "doctor": "Dr. Mario da Silva",
